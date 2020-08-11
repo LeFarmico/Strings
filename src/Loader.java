@@ -31,6 +31,7 @@ public class Loader {
         System.out.println(removeSpaces("А роза упала на лапу Азора"));
         System.out.println(isPalindrome(palindrome));*/
         System.out.println(formatString("Первая строка", "Вторая строка", 44));
+
     }
 
     private static char[] concat(String str1, String str2) {
